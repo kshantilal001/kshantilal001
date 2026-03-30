@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Kashish
 
-<!--
-**kshantilal001/kshantilal001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mathematics Graduate (BSc Hons, 2:1)  
+📊 Aspiring Data Analyst  
 
-Here are some ideas to get you started:
+I’m passionate about using data to uncover insights and support decision-making.  
+I have experience working with real-world datasets using statistical modelling techniques including regression, time-series analysis, and logistic regression.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills
+- Excel (data cleaning, analysis)
+- Minitab, SAS, MATLAB
+- Statistical Analysis (Regression, ARIMA, Hypothesis Testing)
+- Data Interpretation & Visualisation
+
+---
+
+## 📂 Projects
+
+### 🚧 Road Accident Analysis
+- Analysed large-scale datasets using regression and ARIMA models  
+- Identified key trends and forecasted accident patterns  
+
+### 🏥 Healthcare Data Analysis
+- Built logistic regression model to predict malignancy  
+- Handled missing data and interpreted model performance  
+
+---
+
+## 📫 Contact
+📧 kashish.shantilal001@gmail.com
